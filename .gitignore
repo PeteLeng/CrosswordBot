@@ -1,0 +1,3 @@
+testing/**
+!testing/rand_words.py
+!testing/sports.txt
