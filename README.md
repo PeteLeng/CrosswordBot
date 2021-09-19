@@ -24,4 +24,6 @@ The crossword problem is inherently exponential, a DFS generator is implemented 
 No extra packages except python and numpy
 
 # Testing
-Provided a "rand_words.py" script in testing folder, a text file with 10 random words will be generated for copying into the Bot.
+- Generate a text file of 10 random words using "rand_words.py".
+- Run "app.py" in packages.
+- Follow the user manual.
