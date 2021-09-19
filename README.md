@@ -2,7 +2,7 @@
 A tool for generating crosswords.
 
 # Demonstration
-
+<img src="https://user-images.githubusercontent.com/77133684/133922297-784bc166-5734-4452-bd49-ffa0d4d030b9.png" alt="alt text" width="500" height="500">
 
 # User manual
 - Input words into the text box on the left.
