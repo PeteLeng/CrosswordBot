@@ -19,7 +19,7 @@ def rand_words(words, num):
     return [words[random.choice(range(len(words)))] for i in range(num)]
 
 def write_words(words):
-    with open('C:\\Pete\\Project\\Crossword\\test_words.txt', 'w') as f:
+    with open('test_words.txt', 'w') as f:
         for word in words:
             f.write(word + '\n')
 
